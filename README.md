@@ -1,2 +1,1 @@
-
-##NQueen using Backtracking, Bitsets and Bitmasks
+## NQueen using Backtracking, Bitsets and Bitmasks
